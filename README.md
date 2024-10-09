@@ -6,7 +6,7 @@ This is a simple Python-based web framework using **Werkzeug** for request/respo
 ## Project Structure
 
 ```
-mini_framework/
+mini_web_framework/
 │
 ├── app/
 │   ├── __init__.py            # Initialize the app package
